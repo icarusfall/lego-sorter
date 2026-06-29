@@ -10,6 +10,16 @@ Quick map for contributors: **[CLAUDE.md](CLAUDE.md)**. Wiring: **[docs/architec
 
 **Current phase: 1 — Capture PoC.**
 
+## Building the machine (with the family)
+
+The physical build is split into four modules, one owner each. Friendly, tailored
+build plans live in **[docs/build/](docs/build/README.md)**:
+
+- 🫗 [RufusPlan.md](docs/build/RufusPlan.md) — the hopper / feeder (singulation)
+- 👁️ [JeremyPlan.md](docs/build/JeremyPlan.md) — the capture chamber (camera + lighting)
+- 🚦 [PatrickPlan.md](docs/build/PatrickPlan.md) — the diverter (sorting mechanism)
+- 🧠 [CharlieInstructions.md](docs/build/CharlieInstructions.md) — the brain (Pi, power, software)
+
 ## Quick start (laptop, no hardware)
 
 ```bash
